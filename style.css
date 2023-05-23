@@ -1,0 +1,36 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(125, 18, 231));
+}
+.header_div {
+    background:rgb(208, 196, 225);
+    color:rgb(20, 18, 18);
+}
+.header_div p{
+    color:rgba(52, 10, 241, 0.888);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.main_div button{
+    margin-top: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background-color: rgb(100, 237, 114) ;
+    color: rgb(36, 61, 11);
+  
+}
+.copy_right_footer{
+    position:fixed;
+    color: rgb(85, 77, 77) ;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color:aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
